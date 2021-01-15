@@ -2,3 +2,12 @@
     height: 28px;
     width: 168px;
 }
+
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.btn{
+    background-color: yellowgreen;
+    color: white;
+}
